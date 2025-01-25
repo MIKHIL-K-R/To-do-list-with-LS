@@ -1,2 +1,2 @@
-# Simple-To-Do-List
-Just a simple To Do List
+# To-do-list-with-LS
+To to list with Local Storage
